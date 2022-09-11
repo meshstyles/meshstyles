@@ -1,10 +1,7 @@
 ### Hi there 👋
 This is my personal github with mostly personal and uni projects
 
-I'm always working on something in
-- bash
-- nodejs
-- java
+I'm always working on something or learning something new
 
 What I'm good at
 - finding solutions
